@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JiannaD
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning how to create responsive web pages using HTML5, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on web development projects that I can use to practice different coding languages, solve real-world coding problems, and build my skills and experience.
+- 👋 Hi, I’m Jianna Davis
+- 👀 I am a project manager transitioning to data analytics.
+- 🌱 I am experienced in MS Excel, Pivot tables, SQL, and am continuing to grow my skillset. 
+- 💞️ I’m currently looking for an entry level data analyst role. 
 - 📫 How to reach me: www.linkedin.com/in/jiannadavis/
 
 <!---
